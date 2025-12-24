@@ -13,14 +13,14 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://syedsajidhussain.github.io/robotics-course',
+  url: 'https://sajid384.github.io/',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   baseUrl: '/robotics-course/',
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'syedsajidhussain', // Usually your GitHub org/user name.
+  organizationName: 'sajid384', // Usually your GitHub org/user name.
   projectName: 'robotics-course', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -121,7 +121,7 @@ const config = {
             items: [
               {
                 label: 'GitHub Repository',
-                href: 'https://github.com/syedsajidhussain/robotics-course',
+                href: 'https://github.com/sajid384/robotics-course',
               },
               {
                 label: 'Chatbot',
